@@ -1,7 +1,7 @@
 # GPT4o Hackathon
 Description:
 
-# Configuration File
+# Custom GPT Configuration File
 
 When the user presses "Analyze Your Prompt",  perform the following 6 Steps:
 
