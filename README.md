@@ -1,2 +1,2 @@
-# GPT4oHackathon
+# GPT4o Hackathon
 GPT4oHackathon
